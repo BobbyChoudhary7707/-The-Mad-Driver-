@@ -71,7 +71,10 @@ Select Branch: main and Root
 Save and open the live URL 🎉
 PICTURE OF IT 
 
+<img width="1919" height="913" alt="Screenshot 2026-01-05 151712" src="https://github.com/user-attachments/assets/c05c9302-210d-453c-bd69-1ba01858f0c9" />
 
+<img width="1728" height="831" alt="Screenshot 2026-01-05 151728" src="https://github.com/user-attachments/assets/f36f8673-44ae-43ab-acf8-7e1ffd029aeb" />
+<img width="989" height="871" alt="Screenshot 2026-01-05 152419" src="https://github.com/user-attachments/assets/9d9022bb-413e-493b-8f16-c22a809adb5c" />
 
 
 <img width="1918" height="917" alt="Screenshot 2026-01-05 151642" src="https://github.com/user-attachments/assets/952d855b-f134-47e6-87ca-5816d80c1e5e" />
